@@ -38,12 +38,6 @@ Personal projects (Wings Inc. CRM portal, freelance tooling, side projects) are 
 
 ---
 
-### 📊 Activity
-
-![Valery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valeryb430&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=stars)
-
----
-
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valery%20Briceno%20Velez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/valerybriceno)
