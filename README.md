@@ -2,13 +2,13 @@
 
 **Lead Data Engineer** · Construction Tech · GCP · Procore Platform · AI/ML
 
-I'm a data engineer based in Charlotte, NC who built and owns a full Google Cloud data platform from scratch as the sole technical contributor at a $100M+ construction company. I work across the entire stack — pipelines, APIs, portals, dashboards, and infrastructure — with no dedicated engineering team.
+I'm a data engineer based in Charlotte, NC who built and owns a full Google Cloud data platform from scratch as the sole technical contributor at a $30M+ construction company. I work across the entire stack — pipelines, APIs, portals, dashboards, and infrastructure — with no dedicated engineering team.
 
 ---
 
 ### 🔧 What I Build
 
-- **Data pipelines & warehouses** — BigQuery, Cloud Run, Cloud Scheduler, ETL/ELT across 6 source systems (Procore, Dynamics 365, Riskcast, Viewpoint Spectrum, Medius)
+- **Data pipelines & warehouses** — BigQuery, Cloud Run, Cloud Scheduler, ETL/ELT across 6 source systems (Procore, Dynamics 365 F&O, Riskcast, Viewpoint Spectrum, Medius)
 - **Web applications** — FastAPI + React portals deployed on Cloud Run with Cloudflare Access SSO
 - **Procore integrations** — 60+ production API endpoints; verified Procore private app developer with a live embedded app in production
 - **BI & reporting** — Power BI semantic models (ADBC/XMLA), Streamlit dashboards, Tabular Editor C# automation
@@ -32,7 +32,7 @@ AI/ML        Model training & fine-tuning · prompt engineering · agent evaluat
 
 ### 📁 About This Profile
 
-Most of my active work lives in the **[sj-hamill-dev](https://github.com/sj-hamill-dev)** organization (20 private repos) — kept separate from this personal account since the code interfaces with proprietary company systems. The contribution graph here reflects real daily engineering work across both accounts.
+Most of my active work lives in the **[sj-hamill-dev](https://github.com/sj-hamill-dev)** organization (20+ private repos) — kept separate from this personal account since the code interfaces with proprietary company systems. The contribution graph here reflects real daily engineering work across both accounts.
 
 Personal projects (Wings Inc. CRM portal, freelance tooling, side projects) are in private repos on this account.
 
