@@ -31,8 +31,6 @@ status: building the entire data platform as sole engineer
 ║  Dockerfiles ............. 12+                       ║
 ║  GitHub Actions .......... 18+ workflows             ║
 ║  Cloud Schedulers ........ 14+ jobs                  ║
-║  Direct Costs Tracked .... $31.97M                   ║
-║  D365 Financials ......... $37.25M+                  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
