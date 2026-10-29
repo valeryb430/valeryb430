@@ -44,7 +44,7 @@ status: building the entire data platform as sole engineer
 [DEPLOY_GRID]            Cloud Build, GitHub Actions, Cloudflare Pages/Access/Workers KV
 [DOMAIN_FINANCE]         GL/AP/AR, AIA Billing (G702/G703), Job Costing, Retainage, Reconciliation
 [ENTERPRISE_DATA]        Procore, Dynamics 365, Viewpoint Spectrum, Medius, Riskcast
-[NEURAL_NET]             Claude API, LLM Tool-Use, Agentic Workflows, RAG, Prompt Engineering
+[NEURAL_NET]             Document AI OCR, Model Evaluation, Prompt Engineering, Claude Code, Cursor, Copilot
 ```
 
 ### `> missions --active`
