@@ -21,12 +21,12 @@ status: building the entire data platform as sole engineer
 ╔══════════════════════════════════════════════════════╗
 ║  PLATFORM STATS                                      ║
 ╠══════════════════════════════════════════════════════╣
-║  Repositories ............ 24                        ║
+║  Repositories ............ 20                        ║
 ║  Commits ................. 1,792                     ║
 ║  Pull Requests ........... 257                       ║
-║  Source Systems .......... 6                          ║
+║  Source Systems .......... 6                         ║
 ║  BigQuery Tables ......... 3,800+                    ║
-║  Power BI Reports ........ 23                        ║
+║  Power BI Reports ........ 26                        ║
 ║  Cloud Build Pipelines ... 15+                       ║
 ║  Dockerfiles ............. 12+                       ║
 ║  GitHub Actions .......... 18+ workflows             ║
@@ -51,12 +51,12 @@ status: building the entire data platform as sole engineer
 
 **Full-Stack Data Engineer** @ SJ Hamill Construction (HEICO/CSG)
 > Joined as first and only technical hire. Built the entire data infrastructure from scratch.
-> 6 enterprise system integrations, 4 production React apps, 1 Procore embedded app,
-> 23 Power BI reports, Kimball-style conformed dimension warehouse, and an AI agent.
+> 6 enterprise system integrations, 5 production React apps, 1 Procore embedded app,
+> 26 Power BI reports, Kimball-style conformed dimension warehouse, and an AI agent.
 
 **Freelance Software Engineer** @ Independent
 > Full-stack CRM portal for Wings Inc. — FastAPI + React, Stripe payments,
-> Zoho bidirectional sync, 932 clients in production.
+> Zoho bidirectional sync, ~900 clients in production.
 
 **Owner & Licensed GC** @ Brively Homes
 > Real estate & general contracting in Charlotte. ~$3.5M lifetime sales.
