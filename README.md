@@ -9,7 +9,7 @@
 
 ```yaml
 name: Valery Briceno Velez
-role: Full-Stack Data Engineer
+role: Full-Stack Engineer
 location: Charlotte, NC
 education: UNC Chapel Hill, B.A. Computer Science
 status: building the entire data platform as sole engineer
@@ -49,7 +49,7 @@ status: building the entire data platform as sole engineer
 
 ### `> missions --active`
 
-**Full-Stack Data Engineer** @ SJ Hamill Construction (HEICO/CSG)
+**Full-Stack Engineer** @ SJ Hamill Construction (HEICO/CSG)
 > Joined as first and only technical hire. Built the entire data infrastructure from scratch.
 > 6 enterprise system integrations, 5 production React apps, 1 Procore embedded app,
 > 26 Power BI reports, Kimball-style conformed dimension warehouse, and an AI agent.
