@@ -52,7 +52,8 @@ status: building the entire data platform as sole engineer
 **Full-Stack Engineer** @ SJ Hamill Construction (HEICO/CSG)
 > Joined as first and only technical hire. Built the entire data infrastructure from scratch.
 > 6 enterprise system integrations, 5 production React apps, 1 Procore embedded app,
-> 26 Power BI reports, Kimball-style conformed dimension warehouse, and an AI agent.
+> 26 Power BI reports, Kimball-style conformed dimension warehouse,
+> and AI-powered invoice automation (Document AI OCR).
 
 **Freelance Software Engineer** @ Independent
 > Full-stack CRM portal for Wings Inc. — FastAPI + React, Stripe payments,
