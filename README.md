@@ -62,6 +62,8 @@ status: building the entire data platform as sole engineer
 > 6 enterprise system integrations, 5 production React apps, 1 Procore embedded app,
 > 26 Power BI reports, Kimball-style conformed dimension warehouse,
 > and AI-powered invoice automation (Document AI OCR).
+> Internal apps portal on Cloudflare (AP, Direct Costs, Vendor Analytics, G702/G703 billing)
+> used daily by finance, ops and PMs.
 
 **Freelance Software Engineer** @ Independent
 > Full-stack CRM portal for Wings Inc. — FastAPI + React, Stripe payments,
@@ -70,6 +72,8 @@ status: building the entire data platform as sole engineer
 **Owner & Licensed GC** @ Brively Homes
 > Real estate & general contracting in Charlotte. ~$3.5M lifetime sales.
 > NC Broker-In-Charge + GC qualifier.
+> Built and run brivelyhomes.com: React + TypeScript on Netlify, Node/Express API,
+> Stripe card + ACH payments.
 
 ### `> connect`
 
